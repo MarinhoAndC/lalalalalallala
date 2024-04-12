@@ -7,3 +7,4 @@ elif vlanNum >= 1006 and vlanNum <= 4095:
     print ("Esta es una Vlan de rango extendido")
 else:
     print ("Número de Vlan ingresado desconocido")
+Archivos de la Evaluación1
